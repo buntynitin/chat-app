@@ -1,0 +1,9 @@
+export const URL = "http://127.0.0.1:8000"
+export const loginURL = `${URL}/auth/login`
+export const registerURL = `${URL}/auth/register`
+export const getUsers = `${URL}/message/users`
+export const fetchMessages = `${URL}/message/fetch`
+export const sendMessage = `${URL}/message/send`
+export const getFriends = `${URL}/message/friends`
+export const addFriend = `${URL}/message/addFriend`
+export const socketURL = `${URL}/`

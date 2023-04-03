@@ -1,0 +1,2 @@
+DB_URI="mongoDB server URI"
+TOKEN_SECRET="secret token string"
